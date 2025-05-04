@@ -22,28 +22,36 @@ Este projeto consiste em uma análise de dados de vendas de quatro lojas do Sr. 
       
     * Faturamento por categoria de produto o mais e menos vendido
  
-      ![produto mais vendido e menos vendido](https://github.com/user-attachments/assets/80e9618e-5769-4b47-b405-6b30f198b80c)
+      ![produto mais vendido e menos vendido](https://github.com/user-attachments/assets/a11c808c-068c-4b40-97ff-bb603d800630)
 
   
     * Avaliação dos clientes por loja
-
-      ![avaliacao dos clientes](https://github.com/user-attachments/assets/844cae0c-1df3-4416-982d-cc53ca1ce071)
+ 
+      ![avaliacao dos clientes](https://github.com/user-attachments/assets/ce437c89-bca1-467b-b94e-f8bd6c0ba4ee)
       
 
     * Custo médio de frete por loja
  
-      ![frete](https://github.com/user-attachments/assets/786a3744-2d4b-4cf3-9bf8-d8632067de3a)
+      ![frete](https://github.com/user-attachments/assets/02569e70-6897-456f-aa39-68430b12dd9f)
+
 
       
 * Análise geográfica das vendas utilizando mapas de calor e marcadores de localização das lojas.
+* 
   
- ![calor loja 1](https://github.com/user-attachments/assets/cf10e05f-3065-4077-8ed9-2c7510d5adde)
+ ![calor loja 1](https://github.com/user-attachments/assets/0e34a0eb-65e4-47ea-8973-5b7516abff89)
+ 
 
- ![calor loja2](https://github.com/user-attachments/assets/92f50aa1-c414-4437-bc72-ac61192f1f73)
+ ![calor loja2](https://github.com/user-attachments/assets/0cb4e8cf-9558-45df-af0b-a7b53c54af9a)
+ 
 
- ![calor loja3](https://github.com/user-attachments/assets/e42000ba-33bf-47d0-9342-619a82e0de05)
+ ![calor loja3](https://github.com/user-attachments/assets/4c108aed-b054-44d8-91ce-29015353c3a3)
+ 
 
- ![calor loja 4](https://github.com/user-attachments/assets/05fd4431-faae-44e0-bd46-b8e42c398379)
+ ![calor loja 4](https://github.com/user-attachments/assets/2fce88bf-7378-4db2-8e15-5b460e148d13)
+
+
+
 
 
 ## Tecnologias Utilizadas
