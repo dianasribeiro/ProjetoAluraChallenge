@@ -16,10 +16,10 @@ Este projeto consiste em uma análise de dados de vendas de quatro lojas do Sr. 
   
 * Geração de gráficos para visualização dos dados, incluindo:
     * Faturamento por loja
-
-      ![faturamento por loja](https://github.com/user-attachments/assets/a18780c8-50c1-4370-b30c-a4b70c760a54)
       
+      ![faturamento por loja](https://github.com/user-attachments/assets/38dc1d06-2e3c-45b5-a3ad-6f08c23d19e0)
 
+      
     * Faturamento por categoria de produto o mais e menos vendido
  
       ![produto mais vendido e menos vendido](https://github.com/user-attachments/assets/80e9618e-5769-4b47-b405-6b30f198b80c)
