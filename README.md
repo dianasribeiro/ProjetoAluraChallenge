@@ -64,7 +64,7 @@ Este projeto consiste em uma análise de dados de vendas de quatro lojas do Sr. 
 
 ## Como Executar o Projeto
 
-1. Clone este repositório: `git clone <URL_do_repositorio>`
+1. Clone este repositório: git clone <https://github.com/dianasribeiro/ProjetoAluraChallenge/tree/main>
 2. Abra o notebook `Alura_Store_Challenge.ipynb` no Google Colab.
 3. Execute as células do notebook para realizar a análise e gerar os gráficos.
 
