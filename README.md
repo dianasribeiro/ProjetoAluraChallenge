@@ -5,7 +5,7 @@ Análise de Dados para Otimização de Vendas e Tomada de Decisões Estratégica
 
 ## Descrição do Projeto
 
-Este projeto consiste em uma análise de dados de vendas de quatro lojas do Sr. João. O objetivo é auxiliar na tomada de decisão sobre qual loja vender para investir em um novo negócio. A análise foi realizada utilizando Python e bibliotecas como Pandas, Matplotlib e Folium.
+Este projeto consiste em uma análise de dados de vendas de quatro lojas do Sr. João. O objetivo é auxiliar na tomada de decisão sobre qual loja vender para investir em um novo negócio. A análise foi realizada utilizando Python e bibliotecas como Pandas, Matplotlib, Seaborn e Folium.
 
 ## Funcionalidades
 
@@ -37,7 +37,7 @@ Este projeto consiste em uma análise de dados de vendas de quatro lojas do Sr. 
 
       
 * Análise geográfica das vendas utilizando mapas de calor e marcadores de localização das lojas.
-* 
+  
   
  ![calor loja 1](https://github.com/user-attachments/assets/0e34a0eb-65e4-47ea-8973-5b7516abff89)
  
